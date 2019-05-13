@@ -12,7 +12,6 @@
 |
 */
 
-
 Route::post('register', 'API\RegisterController@register');
 
 
